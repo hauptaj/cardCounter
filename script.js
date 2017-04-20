@@ -14,4 +14,4 @@ function cc(card) {
   };
 };
 
-cc(2); cc(3); cc(4); cc(5); cc(6);
+cc(7); cc(3); cc(4); cc(5); cc(6);
